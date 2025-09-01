@@ -1,6 +1,6 @@
 # Flutter Login UI
 
-- Simple Login and Register User Interface (UI) created using flutter.
+Simple Login and Register User Interface (UI) created using flutter.
 
 ---
 
